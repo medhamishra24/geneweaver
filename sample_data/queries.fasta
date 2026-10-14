@@ -1,0 +1,8 @@
+>exact_match
+ACGTACGTACGTACGT
+>two_substitutions
+ACGTTCGTACGTACGA
+>short_query
+ACGTACGT
+>long_query
+ACGTACGTACGTACGTAA
